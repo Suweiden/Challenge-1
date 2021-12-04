@@ -1,0 +1,98 @@
+.box-area {
+     margin: 0;
+     padding: 0;
+}
+.body-1 {
+    text-align: center;
+}
+.wrapper {
+    width: 1170px;
+    margin:0 auto;
+}
+header {
+    height: 100px;
+    background:#0B4619;
+    width: 100%;
+    z-index: 17;
+    position: fixed;
+}
+.logo {
+    width: 30%;
+    float: left;
+    line-height: 100px;
+}
+.logo a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: bignoodletitling;
+    color: #fff;
+    letter-spacing:5px;
+}
+nav {
+    float: right;
+    line-height: 100px;
+}
+nav a {
+    text-decoration: none;
+    font-family: bignoodletitling;
+    letter-spacing: 4px;
+    margin: 0 10px;
+    color: #fff;
+}
+.banner-area {
+    width: 100%;
+    height: 500px;
+    position: fixed;
+    top: 100px;
+    background-image: url("../Engineering Club Challenges/bg-header.gif");
+    background-position: center center;
+    background-size: cover;
+}
+.banner-area h2 {
+    padding-top: 7%;
+    font-size: 110px;
+    font-family: poppins;
+    text-transform: uppercase;
+    color: #fff;
+    opacity: 0.75;
+}
+.content-area {
+    width: 100.6%;
+    position: relative;
+    top:450px;
+    background:#FFCC1D;
+    height: 2500px;
+}
+.content-area h2 {
+    font-family: bignoodletitling;
+    letter-spacing: 4px;
+    padding-top: 30px;
+    font-size: 40px;
+    margin: 0;
+
+}
+.content-area p {
+    padding: 2%;
+    font-family: merienda;
+    line-height:30px;
+}
+.container {
+    text-align: center;
+}
+.icon {
+    color: black;
+    text-align: center;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    width: 1380px;
+    height: 190px;
+}
+.divide {
+    font-size: 30px;
+    font-weight: 30;
+    position: relative;
+    top: 5px;
+}
+
